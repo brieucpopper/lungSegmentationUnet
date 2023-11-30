@@ -30,6 +30,9 @@ Our project at Telecom SudParis allowed us to delve into the following key areas
 
 - **Working on GPU Clusters with SSH:** Acquiring practical experience in working on GPU clusters through SSH, including Linux proficiency and associated skills.
 
+## Sample results
+
+![example](https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_3.png)
 ## Technologies Used
 
 Our project leveraged the following technologies:
