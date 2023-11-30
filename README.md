@@ -34,8 +34,10 @@ Our project at Telecom SudParis allowed us to delve into the following key areas
 
 ![example](https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_3.png)
 
-The above image shows on the left the image that our network gets as input, and then the masks that it predicts and the ground truth.
+The above image shows on the left the image that our network gets as input, and then group truth and the masks that it predicts.
 
+Below is an example with 3-class segmentation (left lung and right lung)
+![3class](https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_37.png)
 ## Technologies Used
 
 Our project leveraged the following technologies:
