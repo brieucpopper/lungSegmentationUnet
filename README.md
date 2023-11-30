@@ -33,6 +33,9 @@ Our project at Telecom SudParis allowed us to delve into the following key areas
 ## Sample results
 
 ![example](https://github.com/brieucpopper/lungSegmentationUnet/blob/main/IMAGE_3.png)
+
+The above image shows on the left the image that our network gets as input, and then the masks that it predicts and the ground truth.
+
 ## Technologies Used
 
 Our project leveraged the following technologies:
