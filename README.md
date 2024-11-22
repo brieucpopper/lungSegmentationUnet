@@ -16,7 +16,7 @@ Welcome to the README for our collaborative project developed at Telecom SudPari
 
 ## Learning Focus
 
-Our project at Telecom SudParis allowed us to delve into the following key areas:
+Our project at Telecom SudParis allowed us to dive into the following key areas:
 
 - **U-NET Implementation:** Understanding the architecture and practical implementation of U-NET.
   
